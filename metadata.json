@@ -1,0 +1,6 @@
+{
+  "name": "Linguist AI",
+  "description": "An NLP system that detects and translates code-mixed languages into fluent English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
